@@ -5,4 +5,5 @@ Redox 源码:https://gitlab.redox-os.org/redox-os/redox
 rust the-book:https://doc.rust-lang.org/book/title-page.html  
 rust the-book中文版:https://kaisery.github.io/trpl-zh-cn/title-page.html  
 rust std标准库:https://doc.rust-lang.org/std/index.html  
-rust 常用包(crates):https://doc.rust-lang.org/1.1.0/log/index.html  
+rust 常用包(crates):https://doc.rust-lang.org/1.1.0/log/index.html   
+从0开始学RUS和riscv: https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code  
